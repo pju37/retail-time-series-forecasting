@@ -31,6 +31,3 @@
 
 **Output Preview:**
 ![Forecasting Dashboard](plot/time_series_demand_forecast_dashboard.png)
-
-
-![Forecasting Dashboard](https://github.com/Sumit-Kumar-Dash/Top-5-Data-Science-Projects/blob/main/time_series_demand_forecast_dashboard.png)
