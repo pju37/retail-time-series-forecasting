@@ -21,7 +21,7 @@
 
 **Technical Highlights:**
 - Classical time series methods (ARIMA, Exponential Smoothing)
-- Modern ML approaches (XGBoost Regressor, LSTM, Transformer models)
+- Modern ML approaches (XGBoost Regressor, LSTM)
 - Feature engineering with lag variables and rolling statistics
 - Automated hyperparameter optimization with Optuna
 - Time-aware splitting: Avoided data leakage using chronological train–validation strategy
@@ -31,5 +31,6 @@
 
 **Output Preview:**
 ![Forecasting Dashboard](plot/time_series_demand_forecast_dashboard.png)
+
 
 ![Forecasting Dashboard](https://github.com/Sumit-Kumar-Dash/Top-5-Data-Science-Projects/blob/main/time_series_demand_forecast_dashboard.png)
